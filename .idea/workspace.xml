@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0ee0d7cd-b246-4aa1-b593-d7bcf153a1de" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/pythonProject/Python_Basic/Module15/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/Python_Basic/Module15/task_01_list_gen/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/Python_Basic/Module15/task_02_tournament/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/Python_Basic/Module15/task_03_cells/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/Python_Basic/Module15/task_04_videocards/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/Python_Basic/Module15/task_05_movie/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/Python_Basic/Module15/task_06_word_analysis/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/Python_Basic/Module15/task_07_containers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/Python_Basic/Module15/task_08_running_nums/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/Python_Basic/Module15/task_09_word_analysis_2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/Python_Basic/Module15/task_09_word_analysis_2/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/Python_Basic/Module15/task_09_word_analysis_2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/Python_Basic/Module15/task_09_word_analysis_2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/Python_Basic/Module15/task_09_word_analysis_2/.idea/task_09_word_analysis_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/Python_Basic/Module15/task_09_word_analysis_2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/Python_Basic/Module15/task_09_word_analysis_2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/Python_Basic/Module15/task_10_sort/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/Python_Basic/Module15/task_01_list_gen/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject/Python_Basic/Module15/task_01_list_gen/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/Python_Basic/Module15/task_09_word_analysis_2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject/Python_Basic/Module15/task_09_word_analysis_2/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/basic_collections" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EjEvzaviI30ZvYwlj5UzSIkRxH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users79265/PycharmProjects&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Python&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users79265\PycharmProjects\pythonProject\Python_Basic" />
+      <recent name="C:\Users79265\PycharmProjects\pythonProject" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="even_numbers_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\79265\AppData\Roaming\JetBrains\PyCharmCE2022.2\scratches\even_numbers_list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.even_numbers_list" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ee0d7cd-b246-4aa1-b593-d7bcf153a1de" name="Changes" comment="" />
+      <created>1663100827746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663100827746</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

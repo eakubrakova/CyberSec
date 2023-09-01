@@ -1,0 +1,33 @@
+Задания на дешифрование информации:
+
+1. IT USED TO BE EXPENSIVE TO MAKE THINGS PUBLIC AND CHEAP TO MAKE THEM PRIVATE NOW ITS EXPENSIVE TO MAKE THINGS
+PRIVATE AND CHEAP TO MAKE THEM PUBLIC (с) Clay Shirky
+(использован шифр Цезаря со сдвигом 13, a --> n)
+
+2. Мы все учились понемногу чему-нибудь и как-нибудь. (с) А.С. Пушкин "Евгений Онегин"
+(использован шифр Атбаш: замена n-й буквы алфавита буквой с номером m - n + 1, где m — число букв в алфавите)
+
+3.I think that the secrecy that has been surrounding this invasion of privacy has been excessive, so
+I think that the bringing of it to the public notice has probably been, in the long term, beneficial.
+(c) Jimmy Carter, Commentary on Edward Snowden disclosure.
+
+4. У всех нас есть эти маленькие серые клеточки в голове, но только избранные знают, как ими пользоваться
+(с) А.Кристи "Пуаро ведет следствие"
+
+Задания на декодирование информации:
+
+1.You see, but you do not observe. (c) А.Конан Дойль "Скандал в Богемии" устами Шерлока Холмса.
+(исходная кодировка Base64)
+
+2. TO A GREAT MIND, NOTHING IS LITTLE! (с) А.Конан Дойль "Этюд в багровых тонах" устами Шерлока Холмса.
+
+3.Я не психопат, а высокоактивный социопат, выучи термины! (с) из сериала Шерлок Холмс (исходная кодировка CP-1251)
+
+4. Really, Watson, you excel yourself," said Holmes, pushing back his chair and lighting a cigarette. "I am bound to say that in all the accounts which you have been so good as to give of my own small achievements you have habitually underrated your own abilities. It may be that you are not yourself luminous, but you are a conductor of light. Some people without possessing genius have a remarkable power of stimulating it. I confess, my dear fellow, that I am very much in your debt.
+
+I consider that a man's brain originally is like a little empty attic, and you have to stock it with such furniture as you choose. A fool takes in all the lumber of every sort that he comes across, so that the knowledge which might be useful to him gets crowded out, or at best is jumbled up with a lot of other things, so that he has a difficulty in laying his hands upon it. Now the skillful workman is very careful indeed as to what he takes into his brain-attic. He will have nothing but the tools which may help him in doing his work, but of these he has a large assortment, and all in the most perfect order. It is a mistake to think that that little room has elastic walls and can distend to any extent. Depend upon it there comes a time when for every addition of knowledge you forget something that you knew before. It is of the highest importance, therefore, not to have useless facts elbowing out the useful ones.
+
+You've done very well, congratulations!
+(исходный шифр ASCII85)
+
+
